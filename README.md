@@ -13,6 +13,9 @@ A small quick thing I made in python using Tkinter and Pygame. Is a cool visual 
 
 **The Breakdown:**
 
+  In Python We Are Utilizing The Pygame Library For A Main Game Window As Well As A Tkinter Utility Window For Getting User Input For A Color To Change To In Which Will Be Displayed On The Pygame Window With 9 Equally Sized Color Cubes.
+
+  
 
 <img src="https://github.com/Kingerthanu/ColorFlipperPY/assets/76754592/9367eb41-1899-4927-8186-99ea647e07e3" alt="Cornstarch <3" width="55" height="49"><img src="https://github.com/Kingerthanu/ColorFlipperPY/assets/76754592/9367eb41-1899-4927-8186-99ea647e07e3" alt="Cornstarch <3" width="55" height="49"><img src="https://github.com/Kingerthanu/ColorFlipperPY/assets/76754592/9367eb41-1899-4927-8186-99ea647e07e3" alt="Cornstarch <3" width="55" height="49"><img src="https://github.com/Kingerthanu/ColorFlipperPY/assets/76754592/9367eb41-1899-4927-8186-99ea647e07e3" alt="Cornstarch <3" width="55" height="49">
 
