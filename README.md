@@ -19,4 +19,10 @@ A small quick thing I made in python using Tkinter and Pygame. Is a cool visual 
 
 ----------------------------------------------
 
+<img src="https://github.com/Kingerthanu/ColorFlipperPY/assets/76754592/625254c1-c530-4877-a661-ed1749ec90fe" alt="Cornstarch <3" width="55" height="49"><img src="https://github.com/Kingerthanu/ColorFlipperPY/assets/76754592/625254c1-c530-4877-a661-ed1749ec90fe" alt="Cornstarch <3" width="55" height="49"><img src="https://github.com/Kingerthanu/ColorFlipperPY/assets/76754592/625254c1-c530-4877-a661-ed1749ec90fe" alt="Cornstarch <3" width="55" height="49"><img src="https://github.com/Kingerthanu/ColorFlipperPY/assets/76754592/625254c1-c530-4877-a661-ed1749ec90fe" alt="Cornstarch <3" width="55" height="49">
+
+
+
+**Features:**
+
 ![2024-01-0923-07-12-ezgif com-optimize](https://github.com/Kingerthanu/ColorFlipperPY/assets/76754592/1b24ba8b-e8b5-487d-a43e-921af80dbb4a)
