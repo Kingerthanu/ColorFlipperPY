@@ -1,4 +1,4 @@
-# ColorFlipperPY
+# Python_ColorFlipperPY
 
 Use Up Arrow To open color prompt.
 
